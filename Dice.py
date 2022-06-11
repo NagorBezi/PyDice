@@ -1,7 +1,7 @@
 import keyboard
 import random
 
-keyboard.wait("SPACE")
+keyboard.wait("space")
 dice_face = random.randint(1, 6)
 
 if str(dice_face) == '1':
