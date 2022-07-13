@@ -1,5 +1,5 @@
 # PyDice
-This is a dice coded in python. Press space to 'roll' the dice.
+This is a dice coded in python.
 
 Requirments:
 
